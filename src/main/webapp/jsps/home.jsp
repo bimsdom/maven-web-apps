@@ -11,8 +11,8 @@
 <body>
 <h1 align="center">Landmark Technologies</h1>
 <h2 align="center"> Welcome to Landmark Technology.
-	Special testimony and thanksgiving session coming up on Sunday June 27, 2021
-	Landmark Technology is a an ideal online training  platform for DevOps, Plaform and Cloud Engineers. 
+	Welcome to Abake cakes LLC.where we serve the best cakes at all time and our goal is to make your event a memorable one.
+	We are also affliliated with Landmark Technology is a an ideal online training  platform for DevOps, Plaform and Cloud Engineers. 
 	We offer interview preparations and job assitance.
 	The shout of the King is in our midst. His name is JESUS.  HE IS OUR SUCCESS ACCESS KEY</h2>
 <hr>
